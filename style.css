@@ -31,6 +31,7 @@
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
+    resize: none;
 }
 
 #taskInput{
@@ -50,6 +51,7 @@ button{
     cursor: pointer;
     border-radius: 25px;
     margin-right: 5px;
+    resize: none;
 }
 ul li{
     list-style: none;
