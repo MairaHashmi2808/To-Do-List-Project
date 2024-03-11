@@ -49,6 +49,7 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    margin-right: 10px;
 }
 ul li{
     list-style: none;
